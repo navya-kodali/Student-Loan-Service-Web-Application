@@ -1,0 +1,90 @@
+﻿
+#projectImage {
+    height: 100px;
+    width: 20%;
+    float: left;
+    background-color:darkblue;
+}
+#projectBanner {
+    height: 100px;
+    width: 80%;
+    float: right;
+    background-color: violet;
+    text-align: center;
+}
+#main {
+    position: absolute;
+    height: 35px;
+    width:100%;
+    top: 135px;
+    background-color:lightsalmon;
+   
+}
+#log{
+    align-items:center;
+   
+    }
+h2{
+    font-family:'Times New Roman';
+    color:darkblue;
+}
+checkb
+{
+    top:150px;
+}
+ 
+ .tooltip {
+    position: absolute;
+    display:inline-block;
+   font:bold;
+    color:red;
+    background-color:yellow;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 500px;
+    background-color: black;
+    color: #fff;
+    text-align:left;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    bottom: 100%;
+    left: 50%;
+    margin-left: -60px;
+    opacity: 0;
+    transition: opacity 1s;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+
+
+#main1 {
+    text-align: center;
+    }
+#h3 {
+  text-decoration-color:yellowgreen;
+}
+
+   #sub {
+    text-align: center;
+}
+#subm{
+    text-align: center;
+}
+#xmlTable {
+    border-collapse: collapse;
+    border-color: red;
+    width:99%;
+}
+#contactUsTable {
+    top:220px;
+    position:absolute;
+    width:100%;
+    }

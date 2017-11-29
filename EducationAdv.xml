@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+    <Ad>
+        <ImageUrl>images/8edu.jpg</ImageUrl>
+        <NavigateUrl>#</NavigateUrl>
+        <AlternateText>Ad for Education Loan</AlternateText>
+        <Impressions>10</Impressions>
+    <Keyword>education</Keyword>
+     
+  </Ad>
+    <Ad>
+        <ImageUrl>images/9edu.jpg</ImageUrl>
+        <NavigateUrl>#</NavigateUrl>
+        <AlternateText>Ad for Education Loan</AlternateText>
+        <Impressions>10</Impressions>
+    <Keyword>education</Keyword>
+     
+  </Ad>
+    <Ad>
+        <ImageUrl>images/2edu.jpg</ImageUrl>
+        <NavigateUrl>#</NavigateUrl>
+        <AlternateText>Ad for Education Loan</AlternateText>
+        <Impressions>10</Impressions>
+    <Keyword>education</Keyword>
+     
+  </Ad>
+    <Ad>
+        <ImageUrl>images/3edu.jpg</ImageUrl>
+        <NavigateUrl>#</NavigateUrl>
+        <AlternateText>Ad for Education Loan</AlternateText>
+        <Impressions>10</Impressions>
+    <Keyword>education</Keyword>
+     
+  </Ad>
+    <Ad>
+        <ImageUrl>images/5edu.jpg</ImageUrl>
+        <NavigateUrl>#</NavigateUrl>
+        <AlternateText>Ad for Education Loan</AlternateText>
+        <Impressions>10</Impressions>
+    <Keyword>education</Keyword>
+     
+  </Ad>
+ 
+</Advertisements>

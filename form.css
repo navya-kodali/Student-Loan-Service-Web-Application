@@ -1,0 +1,33 @@
+﻿body {
+}
+
+header {
+    position: absolute;
+    height: 105px;
+    width: 100%;
+    top: 11px;
+    left: 9px;
+    margin-bottom: 15px;
+}
+
+#projectImage {
+    height: 100px;
+    width: 20%;
+    float: left;
+    background-color:blue;
+}
+#projectBanner {
+    height: 100px;
+    width: 80%;
+    float: right;
+    background-color: violet;
+    text-align: center;
+}
+#main {
+    background-color:lightsalmon;
+    width: 101%;
+    height: 45px;
+    margin-left: 0px;
+}
+
+      

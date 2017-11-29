@@ -1,0 +1,48 @@
+﻿
+header {
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    top: 7px;
+    left: 11px;
+}
+#projectImage {
+    height: 100px;
+    width: 20%;
+    float: left;
+    
+}
+#projectBanner {
+    height: 100px;
+    width: 80%;
+    float: right;
+    background-color: violet;
+    text-align: center;
+}
+
+
+#mainv{
+    position: absolute;
+    height:27px;
+    width:100%;
+    top:135px;
+    background-color:lightsalmon;
+}
+   
+    
+#sub {
+    text-align: center;
+}
+#subm{
+    text-align: center;
+}
+#xmlTable {
+    border-collapse: collapse;
+    border-color: red;
+    width:99%;
+}
+#contactUsTable {
+    top:220px;
+    position:absolute;
+    width:100%;
+    }

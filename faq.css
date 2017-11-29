@@ -1,0 +1,34 @@
+﻿header {
+    position: absolute;
+    height: 100px;
+    width: 100%;
+}
+#projectImage {
+    height: 100px;
+    width: 20%;
+    float: left;
+    background-color:blue;
+}
+#projectBanner {
+    height: 100px;
+    width: 80%;
+    float: right;
+    background-color: violet;
+    text-align: center;
+}
+#main {
+    position: absolute;
+    height: 35px;
+    width:100%;
+    top: 125px;
+    background-color:lightsalmon;
+   
+}
+#main1 {
+    text-align: center;
+    background-color: white;
+}
+h4 {
+    text-decoration-color: aquamarine;
+}
+
